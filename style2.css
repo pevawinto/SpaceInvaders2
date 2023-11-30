@@ -1,0 +1,73 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  background-color: #3c096c;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: #c77dff;
+  margin-top: 10px;
+  text-shadow: 2px 2px 2px #140f1a;
+}
+
+.btn {
+  background-color: rgb(208, 158, 255);
+  border-color: #21053b;
+  font-size: large;
+}
+
+:hover.btn {
+  background-color: #51138b;
+  border-color: #1a0330;
+}
+
+p {
+  color: #e2bcff;
+  font-size: large;
+  text-align: justify;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.navbar {
+  background-color: #10002b !important;
+  color: #a595bf;
+}
+
+.navbar-brand,
+.nav-link,
+.dropdown-item {
+  color: #a595bf;
+}
+
+.nav-link:hover,
+.dropdown-item:hover {
+  background-color: #140f1a;
+  color: #a595bf;
+}
+
+footer {
+  background-color: #10002b;
+  color: #a595bf;
+  margin-bottom: 0;
+}
+
+footer p,
+footer a {
+  color: #a595bf;
+}
+
+footer .text-center {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.img {
+  height: 30%;
+  width: 10%;
+}
+
+.custom-btn {
+    font-size: 34px; /* Ajuste o tamanho da fonte conforme necessário */
+    padding: 15px 30px; /* Ajuste o padding conforme necessário */
+}
